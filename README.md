@@ -1,16 +1,16 @@
-### Hi there 👋
+## ABOUT ME
+I am a dedicated and versatile professional with a strong background in **Data Science** and **Computer Science**. With a passion for **philosophy**, **critical thinking**, and **business**, I bring a unique perspective to problem-solving and decision-making. My journey has been guided by a **relentless curiosity** and a drive to make a meaningful impact.
 
-<!--
-**mingolladaniele/mingolladaniele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## PROFESSIONAL HIGHLIGHTS
+I have accumulated a diverse range of professional experiences that showcase my expertise and ability to drive results. As a **Data Scientist**, I have led impactful analyses of a gaming arena, resulting in enhanced competitiveness, increased player engagement, and the identification of lucrative monetization avenues. Through my role as a **Data Engineer**, I optimized query costs by 20% and collaborated on implementing cutting-edge anomaly detection algorithms for a transportation network model, elevating service quality. As a **Podcast Host**, I recorded AI-focused episodes that not only demonstrated my prowess in audience research and coordination but also contributed to revenue generation. Additionally, I developed a predictive model with 80% precision for classifying hand-signed documents during my tenure as an **Analyst Developer**.
 
-Here are some ideas to get you started:
+## PASSION AND VALUES
+Beyond my professional endeavors, I am passionate about philosophy and critical thinking. **I believe in the power of knowledge and the art of asking the right questions**. This passion extends to the realm of business, where I see opportunities to apply philosophical insights to strategic decision-making. By combining data-driven approaches with philosophical contemplation, I strive to **unlock innovative solutions** and **drive holistic growth**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a diverse background encompassing data science, podcasting, and technological innovation, I am poised to tackle challenges with a **multidisciplinary mindset**. My commitment to continuous learning and exploration fuels my desire to contribute positively to every endeavor I undertake.
+
+## SOCIALS
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniele-mingolla) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@danielemingolla) 
+
+## TECH STACK
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat-square&logo=datadog&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
