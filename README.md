@@ -7,7 +7,7 @@ I've worked at some of Europe's top tech companies - from optimizing warehouse o
 ## 🎯 Impact Highlights
 
 - Deployed ML recommendation systems driving €4M projected annual GMV impact
-- Built end-to-end fraud detection system achieving 99.6% reduction through causal inference
+- Applied causal inference to validate discount policy impact, detecting a 99.6% fraud reduction without revenue degradation
 - Developed temporal graph neural networks at Amazon to model 1,000+ warehouse dependencies
 - Automated game balancing for [Top Troops](https://play.google.com/store/apps/details?id=game.socialempiresmerge) using genetic algorithms
 
@@ -15,9 +15,9 @@ I've worked at some of Europe's top tech companies - from optimizing warehouse o
 
 I transform complex business problems into scalable ML solutions:
 
-- **ML Systems & Deployment**: Build and scale production ML systems, from recommendation engines to fraud detection
+- **ML Systems & Deployment**: Build and scale production ML systems
 - **Experimentation**: Design and analyze A/B tests end-to-end, from power analysis to stakeholder communication
-- **Deep Learning & AI**: Implement neural networks for complex tasks like temporal predictions and game AI
+- **Deep Learning & AI**: Implement neural networks for complex tasks like temporal predictions
 - **Causal Inference**: Apply statistical rigor to validate business decisions and measure true impact
 
 Always up for interesting challenges! 
