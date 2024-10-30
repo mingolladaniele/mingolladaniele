@@ -1,28 +1,25 @@
 # Hi, I'm Daniele 👋
 
-Data Scientist at [Glovo](https://glovoapp.com/) - one of Europe's fastest-growing tech companies pioneering quick-commerce in 25 countries, delivering food, groceries, and virtually anything in minutes. Currently working in the promotions team, building ML systems to show the right promotional offer to the right user at the right time, making our platform smarter while maximizing both customer satisfaction and business impact.
+Data Scientist at [Glovo](https://glovoapp.com/) - one of Europe's fastest-growing tech companies pioneering quick-commerce in 25 countries. Currently leading ML initiatives in the promotions team, building personalization systems to optimize user experience and business value at scale.
 
-I've had the privilege of working at some of Europe's most innovative companies - from optimizing warehouse operations at **Amazon** to developing game systems at **SocialPoint** (Take-Two Interactive gaming studio) to now driving ML initiatives at **Glovo**'s quick-commerce platform.
-
-Holding an **MSc in Data Science** (University of Milano-Bicocca) and **BSc in Computer Science** (University of Perugia) with a passion for solving complex problems through code. I believe every challenge is an opportunity to learn something new, whether it's building ML systems, automating tedious tasks, or helping others bring their ideas to life.
+I've worked at some of Europe's top tech companies - from optimizing warehouse operations at **Amazon** to developing game systems at **SocialPoint** (Take-Two Interactive) to driving ML initiatives at **Glovo**. Holding an **MSc in Data Science** and **BSc in Computer Science**, I combine strong technical skills with business impact.
 
 ## 🎯 Impact Highlights
 
-- Built ML recommendation systems with €4M projected annual GMV impact at Glovo
-- Reduced fraud by 99.6% through causal inference analysis
-- Automated game balancing for [Top Troops](https://play.google.com/store/apps/details?id=game.socialempiresmerge), cutting manual workload by 70%
-- At Amazon, optimized AWS costs by 20% through Spark job refinement and developed temporal graph neural networks to model dependencies across 1,000+ warehouses
+- Deployed ML recommendation systems driving €4M projected annual GMV impact
+- Built end-to-end fraud detection system achieving 99.6% reduction through causal inference
+- Developed temporal graph neural networks at Amazon to model 1,000+ warehouse dependencies
+- Automated game balancing for [Top Troops](https://play.google.com/store/apps/details?id=game.socialempiresmerge) using genetic algorithms
 
-## 💡 What I Do (for now... this list keeps growing! 📈)
+## 💡 What I Do
 
-I love turning complex problems into elegant solutions. Here's how I've done it so far:
+I transform complex business problems into scalable ML solutions:
 
-- **Experimenting & Learning**: Design and analyze A/B tests end-to-end, from power analysis and experiment design to statistical analysis and stakeholder communication
-- **Making Data Work Harder**: From recommendation systems at Glovo to matchmaking algorithms in gaming at SocialPoint
-- **Automating the Boring Stuff**: Built tools to enhance Kindle notes, automate game balancing, and streamline warehouse operations
-- **Finding Hidden Patterns**: Used causal inference to validate business decisions and ML to detect fraud patterns
-- **Building Cool Stuff**: Whether it's chatbots, automation tools, or ML systems - if it solves a problem, I'm in!
+- **ML Systems & Deployment**: Build and scale production ML systems, from recommendation engines to fraud detection
+- **Experimentation**: Design and analyze A/B tests end-to-end, from power analysis to stakeholder communication
+- **Deep Learning & AI**: Implement neural networks for complex tasks like temporal predictions and game AI
+- **Causal Inference**: Apply statistical rigor to validate business decisions and measure true impact
 
-Always up for interesting conversations and new challenges! 
+Always up for interesting challenges! 
 
 [LinkedIn](https://www.linkedin.com/in/daniele-mingolla/) | [Email](mailto:daniele.mingolla.jobs@gmail.com)
