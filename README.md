@@ -8,7 +8,7 @@ Previously, I drove ML initiatives at [Glovo](https://glovoapp.com/), developed 
 
 -   Pioneered the architecture for the **[GenAI4EU project](https://digital-strategy.ec.europa.eu/en/policies/genai4eu)**, an AI agent system for autonomous cloud management.
 -   Built the **[OpenNebula MCP Server](https://github.com/OpenNebula/one-mcp)** from scratch to enable natural language control over cloud operations.
--   Launched **[TechPuente](https://www.techpuente.com/)**, a SaaS platform that achieved a 92% success rate connecting South American tech talent with European companies using an AI matching engine.
+-   Launched **[TechPuente]([https://www.techpuente.com/](https://techpuente-git-master-mingolladanieles-projects.vercel.app/))**, a SaaS platform that achieved a 92% success rate connecting South American tech talent with European companies using an AI matching engine.
 -   Deployed ML recommendation systems at **Glovo** driving a projected €4M annual GMV impact.
 
 ## 💡 Core Competencies
